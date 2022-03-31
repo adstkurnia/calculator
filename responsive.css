@@ -5,7 +5,7 @@
 
   @media all and (max-width: 670px) {
     .container {
-      width: 50%;
+      width: 100%;
     }
   }
 }
